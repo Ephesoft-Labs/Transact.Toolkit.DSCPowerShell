@@ -1,0 +1,17 @@
+TOPIC
+    about_Ephesoft.Transact.DSC
+
+SHORT DESCRIPTION
+    DSC resources for deployment of Ephesoft Transact.
+
+LONG DESCRIPTION
+    This module contains DSC resources for deployment of Ephesoft Transact.
+
+EXAMPLES
+    PS C:\> Get-DscResource -Module Ephesoft.Transact.DSC
+
+SEE ALSO
+    - https://bitbucket.org/ephesoft/ephesoft.transact.dsc/src/master
+
+KEYWORDS
+    DSC, DscResource, Ephesoft, Transact

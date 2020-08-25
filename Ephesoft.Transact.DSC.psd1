@@ -95,19 +95,19 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+        Tags = @('Transact','DSC','Ephesoft')
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://github.com/Ephesoft-Labs/Transact.DSC.PowerShell/blob/master/LICENSE.md'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/Ephesoft-Labs/Transact.DSC.PowerShell'
 
         # A URL to an icon representing this module.
         # IconUri = ''
 
         # ReleaseNotes of this module
-        # ReleaseNotes = ''
+        ReleaseNotes = 'https://github.com/Ephesoft-Labs/Transact.DSC.PowerShell'
 
         # Prerelease string of this module
         # Prerelease = ''
